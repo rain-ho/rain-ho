@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rafael</h1>
-- Studying Electrical and Computer Engineering at [Coimbra University](https://www.uc.pt)
+- Studying Electrical and Computer Engineering at <a href="https://www.uc.pt" target="_blank">Coimbra University</a>
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
