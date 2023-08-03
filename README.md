@@ -1,9 +1,14 @@
 <h1 align="center">Hi, I'm Rafael</h1>
-<p align="right">
-  <img src="network-confused.gif" width="256">
-</p>
 
-- Studying Electrical and Computer Engineering at <a href="https://www.uc.pt" target="_blank">Coimbra University</a>
+<div style="display: flex; justify-content: space-between;">
+  <p>
+    - Studying Electrical and Computer Engineering at <a href="https://www.uc.pt" target="_blank">Coimbra University</a>
+  </p>
+  
+  <div style="text-align: right;">
+    <img src="network-confused.gif" width="256" />
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
