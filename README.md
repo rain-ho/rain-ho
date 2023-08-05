@@ -1,4 +1,4 @@
-<img src="./images/github-header-image(12).png" >
+<img src="./images/github-header-image.png" >
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
