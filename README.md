@@ -20,7 +20,8 @@
 <div style="position: relative;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rain-ho&show_icons=true&locale=en&layout=compact" alt="rain-ho" />
 </div>
-<div style="position: relative;">
+<div style="position: relative;display: inline-block;">
   <img src="./images/lkqr.png" alt="Your Image" height="100" width="100" style="position: absolute; bottom: 0; right: 0;">
 </div>
+
 
