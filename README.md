@@ -3,7 +3,6 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/rain-ho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rain-ho" height="30" width="40" /></a>
-<img src="./images/lkqr.png" heigh=100 width=100 >
 </p>
 
 
@@ -17,4 +16,4 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a> 
 <a href="https://www.supabase.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase" /> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" /> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rain-ho&show_icons=true&locale=en&layout=compact" alt="rain-ho" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rain-ho&show_icons=true&locale=en&layout=compact" alt="rain-ho" /><img src="./images/lkqr.png" heigh=100 width=100 ></p>
