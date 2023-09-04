@@ -16,4 +16,8 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a> 
 <a href="https://www.supabase.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="supabase" /> </a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" /> </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rain-ho&show_icons=true&locale=en&layout=compact" alt="rain-ho" /><img src="./images/lkqr.png" heigh=100 width=100 ></p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rain-ho&show_icons=true&locale=en&layout=compact" alt="rain-ho" />
+  <img src="./images/lkqr.png" height="100" width="100" style="position: absolute; bottom: 0; right: 0;">
+</p>
