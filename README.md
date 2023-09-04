@@ -1,6 +1,7 @@
 <img src="./images/github-header-image.png" >
 
 <h3 align="left">Connect with me:</h3> 
+<p> <img src="./images/lkqr.png" alt="Your Image" height="100" width="100" style="position: absolute; bottom: 0; right: 0;"> </p>
 <p align="left">
 <a href="https://linkedin.com/in/rain-ho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rain-ho" height="30" width="40" /></a>
 </p>
@@ -19,7 +20,6 @@
 
 <div style="position: relative;display: inline-block;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rain-ho&show_icons=true&locale=en&layout=compact" alt="rain-ho" />
-  <img src="./images/lkqr.png" alt="Your Image" height="100" width="100" style="position: absolute; bottom: 0; right: 0;">
 </div>
 
 
